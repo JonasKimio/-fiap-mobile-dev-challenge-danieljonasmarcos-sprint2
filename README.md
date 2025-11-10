@@ -55,7 +55,7 @@ Siga os passos abaixo para clonar e rodar o projeto localmente:
 
 ## 🎥 Vídeo de Demonstração
 
-(Video em desenvolvimento)
+https://www.youtube.com/watch?v=8jH0bKfXHl0
 
 ---
 
