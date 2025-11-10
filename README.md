@@ -64,3 +64,13 @@ Siga os passos abaixo para clonar e rodar o projeto localmente:
 * **1.2:** Implementação da API simulada para CRUD completo (Criação, Leitura, Edição, Remoção). Estilização e formatação de datas ajustadas para o padrão brasileiro.
 * **1.1:** Estrutura inicial de navegação e adição da opção de Sala reservada. Criação da primeira versão do README.md.
 * **1.0:** Criação e inicialização do projeto base.
+
+## Erro de permissão
+Devido um erro de permissão no git o novo repositório (Temporario) é esse:
+https://github.com/JonasKimio/-fiap-mobile-dev-challenge-danieljonasmarcos-sprint2
+
+**Novo Clone o Repositório:**
+    ```bash
+    git clone https://github.com/JonasKimio/-fiap-mobile-dev-challenge-danieljonasmarcos-sprint2.git
+    ```
+
