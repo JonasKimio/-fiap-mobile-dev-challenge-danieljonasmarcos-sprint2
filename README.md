@@ -69,8 +69,8 @@ Siga os passos abaixo para clonar e rodar o projeto localmente:
 Devido um erro de permissão no git o novo repositório (Temporario) é esse:
 https://github.com/JonasKimio/-fiap-mobile-dev-challenge-danieljonasmarcos-sprint2
 
-**Novo Clone o Repositório:**
+1. **Novo Clone o Repositório:**
     ```bash
-    git clone https://github.com/JonasKimio/-fiap-mobile-dev-challenge-danieljonasmarcos-sprint2.git
+    git clone https://github.com/fiap-mobile-dev/challenge-danieljonasmarcos.git
     ```
 
